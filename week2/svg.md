@@ -1,4 +1,4 @@
-  ### Week 2 · Programmatic 2D SVG
+  ### Programmatic 2D SVG
   
 [Scalable Vector Graphics](http://www.wikipedia.com/wiki/svg) are a powerful method for drawing interactive, animated, complex shapes in a web browser.
 
