@@ -35,12 +35,14 @@ Raphael also enables the identification of user behaviors, such as hovering and 
 
 		//when the mouse enters the element...
 		myRect.mouseover(function(){
-			//...
+			//...animate over one second (1000 milliseconds) the stroke color and width
 			this.animate({stroke: '#f0f', 'stroke-width':20}, 1000);
 		});
 
+		//when the mouse exits...
 		myRect.mouseout(function(){
-			this.animate({stroke: '#f0f', 'stroke-width':0}, 1000);
+			//...reset the stroke over .5 seconds
+			this.animate({stroke: '#000', 'stroke-width':0}, 500);
 		});
 	}
 
