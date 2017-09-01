@@ -50,3 +50,8 @@ Raphael also enables the identification of user behaviors, such as hovering and 
     
 </body>
 </html>
+```
+
+The `animate()` syntax is identical to `.attr` but with an added argument for duration. 
+
+Try out `.click(function(){...})`,`.dblclick(function(){...})`, and `.drag(function(){...})`. There are also `touch` events for tablets and mobile devices detailed in the [Raphael reference](http://dmitrybaranovskiy.github.io/raphael/reference.html#Element.transform).
