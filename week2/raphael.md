@@ -43,7 +43,7 @@ For example, the following code creates a 20px x 60px rectangle at 100px,100px a
 
 ```js
 		var rectangle = canvas.rect(100,100,20,60);
-    var circle = canvas.circle(200,200,50);
+    		var circle = canvas.circle(200,200,50);
 ```
 
 Position is always defined before size. Check out the [Raphael reference](http://dmitrybaranovskiy.github.io/raphael/reference.html#Paper) for more examples and SVG creation and editing tools.
