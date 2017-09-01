@@ -14,7 +14,7 @@ The language itself is remarkably simple, though expressive. This chunk of code 
 
 Copy that code into a text editor like [Sublime](http://www.sublimetext.org) and save the file as `circle.svg`. The resulting file can be opened and edited in Adobe Illustrator or Sketch, and can be viewed in most web browsers. This flexibility is what makes SVG so powerful.
 
-Various other svg objects can be created with the same structure, though each maintains different *mandatory attributes* -- the settings like `cx` and `points` that describe their geometry.
+Various other svg *elements* can be created with the same structure, though each maintains different *mandatory attributes* -- the settings like `cx` and `points` that describe their geometry.
 
 ```svg
 
@@ -34,7 +34,7 @@ Various other svg objects can be created with the same structure, though each ma
 
 ```
 
-There are [many other svg elements](https://developer.mozilla.org/en-US/docs/Web/SVG/Element#Graphics_elements), though they are far more rarely encountered.
+Adobe Illustrator allows the export of SVG content, so making content there and evaluating its output is the best way to learn these elements. There are [many other svg elements](https://developer.mozilla.org/en-US/docs/Web/SVG/Element#Graphics_elements), though they are far more rarely encountered.
 
 Editing these lines of code will allow the composition of various objects within the svg canvas. In order to change the visual appearance of these objects, [other attributes](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute) can be used. The order of attributes does not usually matter.
 
@@ -65,7 +65,7 @@ The `<text>` element can be used to draw text to the canvas. Its formatting is s
 </svg>  
 ```  
 
-In the same way, elements can be arbitrarily grouped into.
+In the same way, elements can be arbitrarily grouped.
 
 ```svg
 <svg width='600' height='600'>
@@ -83,10 +83,16 @@ In the same way, elements can be arbitrarily grouped into.
 </svg>  
 ```
 
+A very powerful attribute is `transform`, which allows the repositioning of elements using a special syntax.
 
+```svg
+<rect x="100" y="100" width="50" height="50" transform="translate(50 60) rotate(72 300 300) scale(2 1.5)"
+```
+This code draws a 50 pixel square at 100,100. The `transform` attribute moves (`translate`s) the object 50 pixels to the right and 60 pixels down, rotates the rectangle 72 degrees around the point at 300,300 and scales the rectangle 2x on its x-axis and 1.5 on its y-axis. There is [inherent complexity](https://css-tricks.com/transforms-on-svg-elements/) in this attribute, which requires experimentation.
 
-<path>
+The most powerful SVG element is `path` which draws arbitrary shapes based on one attribute, containing coordinates and a [special markup language](https://www.w3.org/TR/SVG/paths.html).
 
-<g>
-
-<transform>
+```svg
+    <path d="M200,300 L400,50 L600,300 L800,550 L1000,300 Z" fill="none" stroke="#888888" stroke-width="2" />
+```
+The `d` attribute here moves (`M`) the imaginary pen to 200,300, draws a line (`L`) to 600,300, another to 800,550, and a final line to 200,300. The path is then closed (`Z`). `<path>` is worth the time to master, as any shape can be drawn in programmatic ways.
