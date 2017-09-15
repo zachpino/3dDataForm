@@ -5,4 +5,3 @@ Make sure you have [Rhinoceros 3D](www.rhinoceros3d.com) + [Grasshopper](www.gra
 - [Sample Forms](sample.md)
 - [Datasets](datasets.md)
 - [Evolutionary Design](evolve.md)
-- [References](references.md)
