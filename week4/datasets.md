@@ -12,6 +12,6 @@ This [GH file](data_examples.gh) has all of these datasets included. However, so
 
 ##### 3-Dimensional Data
 3D Movement Record
-- [x][3dx.txt]
-- [y][3dy.txt]
-- [z][3dz.txt]
+- [x-position](3dx.txt)
+- [y-position](3dy.txt)
+- [z-position](3dz.txt)
