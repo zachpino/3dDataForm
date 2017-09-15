@@ -1,6 +1,9 @@
+
 ### Datasets for Sculpting
 
 This [GH file](data_example.gh) has all of these datasets included. However, some grasshopper installations might produce errors.
+
+---
 
 ##### Time-Indexed Data
 [Solar Intensity Sensor in Chicago Illinois](sensor.txt)
