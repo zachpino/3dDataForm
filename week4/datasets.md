@@ -5,10 +5,14 @@ This [GH file](data_examples.gh) has all of these datasets included. However, so
 ##### Time-Indexed Data
 [Solar Intensity Sensor in Chicago Illinois](sensor.txt)
 
+---
+
 ##### 2-Dimensional Data
 1000 World Megacities
 - [Longitude](longitude.txt)
 - [Latitude](latitude.txt)
+
+---
 
 ##### 3-Dimensional Data
 3D Movement Record
