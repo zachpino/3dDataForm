@@ -1,6 +1,6 @@
 ### Attractor / Repulsor Points
 
-[Point Attraction](ar.gif)
+![Point Attraction](ar.gif)
 
 It is often helpful to be able to deform multiple geometries smoothly dependent on some falloff. This demonstration exercise draws circles with a radius dependent on distance from a control point.
 
