@@ -15,4 +15,4 @@ This Grasshopper definition takes a movable target point and creates links betwe
 
 [Download the definition](closest_points_walker.gh)
 
-![closest point walker](closestdistance.PNG)
+![closest point walker](closestdistance.png)
