@@ -21,5 +21,6 @@
 - [Learning to Stand](https://www.youtube.com/watch?v=lPQnVEnFTgY)
 - [Learning to Walk](https://vimeo.com/85053197)
 - [Learning to Walk and Survive Impact!](https://www.youtube.com/watch?v=pgaEE27nsQw)
-- [Max Volume / Minimum Area](http://gracefulspoon.com/blog/2011/06/05/bucky-was-right
+- [Max Volume Minimum Area](http://gracefulspoon.com/blog/2011/06/05/bucky-was-right)
 - [Breeding Tables](http://www.kramweisshaar.com/projects/breeding-tables)
+- [Assorted Examples](http://legacy.iaacblog.com/maa2013-2014-designing-associativity/)
