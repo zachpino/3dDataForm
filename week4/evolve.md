@@ -8,5 +8,7 @@ Take a look at Studio Gang's in construction [Solar Carve Tower](http://www.arch
 
 Also, play around with a tremendous time waster -- [box car 2d](http://boxcar2d.com/) 
 
+[Here are some more examples and readings on genetic algorithms in design](genalgo.md)
+
 ![gh](solar_carve.png)
 
