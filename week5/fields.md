@@ -14,6 +14,6 @@ This setup attempts to simulate a waterfall.
 - All of the charges are merged into a single field for Grasshopper to analyze
 - Regularly spaced lines are drawn to visualize the field at various points.
 
-![waterfall in grasshopper](waterfall.png)
+![waterfall in grasshopper](waterfall.PNG)
 
 [Download the definition](waterfall.gh)
