@@ -17,3 +17,5 @@ This setup attempts to simulate a waterfall.
 [Download the definition](waterfall.gh)
 
 ![waterfall in grasshopper](waterfall.PNG)
+
+![waterfall in rhino](fields.png)
