@@ -13,5 +13,3 @@ It is often helpful to be able to deform multiple geometries smoothly dependent 
 [Download the definition](attractorpoint.gh)
 
 ![attractor respulsor point in Grasshopper](attractorpoint.png)
-
-![attractor repulsor in Rhino](attractor-repulsor.PNG)
