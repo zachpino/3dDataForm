@@ -13,6 +13,6 @@ This Grasshopper definition takes a movable target point and creates links betwe
 - Cut the list of points to the desired number
 - Draw a connecting line between the control point and its near neightbors
 
-[Download the definition](closest_points_walker.gh)
+[Download the definition](closest_point_walker.gh)
 
-![closest point walker](closestdistance.png)
+![closest point walker](closestdistance2.png)
