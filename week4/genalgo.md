@@ -1,9 +1,15 @@
-### Articles
+### Evolutionary Algorithm in Design
+Any design challenge can be tackled through an evolutionary solver. All that is required is that the design challenge have a clear goal to minimize or maximize (the *fitness*), which is the result of the interplay between a set of variables (the *genome*). 
+
+*Fitness* can be complex and synthesized from several factors, and the most productive fitnesses for evolutionary algorithms to solve for are those that implement two oppositional forces (3d volume and material use in a building, height and structural rigidity in a wind turbine, aerodynamics and fuel load in a rocket). 
+
+The more parameteres thar define the *genome*, the more varied and successful the outcomes *can* be, at the expense of computing time. Just like in living organisms, a healthy genome is defined by variability, specificity, and a lack of redundency. 
+
+##### Examples
+Though evolutionary algoriyhms have been around for a while as a design tool, they are new to the discipline of Product Design. Most of these examples are from architecture and engineering, and are mostly low hanging fruit. Be more creative than these!
+
 - [Evolving Design by Danil Nagy](https://medium.com/generative-design/evolving-design-b0941a17b759)
-
-### Videos
-
-### Examples
+- [Engine Block, Chair, Medical Implants](https://www.wired.com/2015/09/bizarre-bony-looking-future-algorithmic-design/)
 - [Aesthetics of Simple 3D Form](https://agatakycia.com/2011/12/28/aesthetics-and-creativity-in-evolutionary-design/)
 - [Yacht Geometry for Ideal Hydrodynamics and Displacement](http://www.cupinfo.com/en/americas-cup-automated-yacht-design-optimization.php)
 - [Antennas for Unusual Environments](https://en.wikipedia.org/wiki/Evolved_antenna)
@@ -11,6 +17,7 @@
 - [Stadium Roof Design](https://www.youtube.com/watch?v=RQIXJMmm-0A)
 - [Complex Joint Design](https://www.youtube.com/watch?v=wB-Q4erLMYE)
 - [Shoes](https://vimeo.com/user2852610)
+- [Solar Carve Tower](http://www.archdaily.com/806233/new-images-of-studio-gangs-solar-carve-tower-revealed-as-project-gets-underway)
 - [Minimum Solar Exposure to Save Cooling Expense](https://yazdanistudioresearch.wordpress.com/2015/02/09/building-optimization-tools-the-grasshopper-definition-and-breakdown/)
 - [Max Solar Exposure](https://gonzalesarch.wordpress.com/tag/grasshopper/)
 - [Best Airflow and Heating for Poulty Facility](https://bioarchitecturestudio.com/2011/07/21/organic-farm-yard-pedregal-del-fresno-grasshopper-galapagos/)
