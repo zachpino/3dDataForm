@@ -3,10 +3,12 @@ Any design challenge can be tackled through an evolutionary solver. All that is 
 
 *Fitness* can be complex and synthesized from several factors, and the most productive fitnesses for evolutionary algorithms to solve for are those that implement two oppositional forces (3d volume and material use in a building, height and structural rigidity in a wind turbine, aerodynamics and fuel load in a rocket). 
 
-The more parameteres thar define the *genome*, the more varied and successful the outcomes *can* be, at the expense of computing time. Just like in living organisms, a healthy genome is defined by variability, specificity, and a lack of redundency. 
+The more parameteres that define the *genome*, the more varied and successful the outcomes *can* be, at the expense of computing time. Just like in living organisms, a healthy genome is defined by variability, specificity, and a lack of redundency. 
+
+Take a look through these examples and try to articulate what the fitness and genomes might have been.
 
 ##### Examples
-Though evolutionary algoriyhms have been around for a while as a design tool, they are new to the discipline of Product Design. Most of these examples are from architecture and engineering, and are mostly low hanging fruit. Be more creative than these!
+Though evolutionary algorithms have been around for a long while as a design tool, they are new to the discipline of Product Design. Most of these examples are from architecture and engineering, and are almost universally low hanging fruit. Be more creative than these!
 
 - [Evolving Design by Danil Nagy](https://medium.com/generative-design/evolving-design-b0941a17b759)
 - [Engine Block, Chair, Medical Implants](https://www.wired.com/2015/09/bizarre-bony-looking-future-algorithmic-design/)
@@ -32,7 +34,7 @@ Though evolutionary algoriyhms have been around for a while as a design tool, th
 - [Learning to Stand](https://www.youtube.com/watch?v=lPQnVEnFTgY)
 - [Learning to Walk](https://vimeo.com/85053197)
 - [Learning to Walk and Survive Impact!](https://www.youtube.com/watch?v=pgaEE27nsQw)
-- [Max Volume Minimum Area](http://gracefulspoon.com/blog/2011/06/05/bucky-was-right)
+- [Max Volume : Minimum Area](http://gracefulspoon.com/blog/2011/06/05/bucky-was-right)
 - [Breeding Tables](http://www.kramweisshaar.com/projects/breeding-tables)
 - [Assorted Examples](http://legacy.iaacblog.com/maa2013-2014-designing-associativity/)
 - [Complete Architectural Design from Lot Orientation to Room Details](https://www.youtube.com/watch?v=3sM6qUUJxus)
