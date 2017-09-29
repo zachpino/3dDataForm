@@ -1,6 +1,6 @@
 ### Parametric Drinkware
 
-![lake michigan as a cup](lakemichigan.png)
+![lake michigan as a cup](lakemichigan.PNG)
 
 Let's use data about the world's lakes, pulled from [World Lake Database](http://wldb.ilec.or.jp) to produce drinkware forms.
 
