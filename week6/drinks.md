@@ -1,5 +1,7 @@
 ### Parametric Drinkware
 
+[lake michigan as a cup](lakemichigan.png)
+
 Let's use data about the world's lakes, pulled from [World Lake Database](http://wldb.ilec.or.jp) to produce drinkware forms.
 
 - Import the Data into panels
@@ -7,4 +9,5 @@ Let's use data about the world's lakes, pulled from [World Lake Database](http:/
 - Create a `Revolution` surface by drawing an axis of rotation line
 - Play with the data and add other lakes!
 
+[Download the definition](lakeglass.gh)
 ![drinkware](drinks.png)
