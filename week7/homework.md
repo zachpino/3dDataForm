@@ -40,7 +40,7 @@ Places to look for data (by no means exhaustive!)...
 - [CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
 - [Transparency International Corruption Index](http://www.transparency.org/research/cpi/overview)
 - [Unicef](http://data.unicef.org)
-- [Department of Justice and FBI Crime Database] (http://www.ucrdatatool.gov)
+- [Department of Justice and FBI Crime Database](http://www.ucrdatatool.gov)
 - [Happy Planet Happiness Index](http://www.happyplanetindex.org/data/)- 
 
 ##### Wikipedia
