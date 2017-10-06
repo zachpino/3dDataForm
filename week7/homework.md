@@ -10,7 +10,7 @@ Take a look at the many examples of [evolutionary modeling](week4/genalgo.md). E
 ### 2 · Data-Derived Forms
 Create a Grasshopper file that creates form through data, as we did with our lakes through wine-glasses project. How can embedding data in an object or 3d form change and improve how an audience engages that information?
 
-3d print 5 examples based on different data, and produce a key to read your objects.
+3d print 5 examples based on different data, and produce a key to read your objects. Take a look at how artists and designers are embedding information in form at [Dataphys](http://www.dataphys.org) and [CreativeApplications](http://www.creativeapplications.net).
 
 Places to look for data (by no means exhaustive!)...
 
