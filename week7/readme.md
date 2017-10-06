@@ -7,4 +7,4 @@ Kangaroo physics allows designers to integrate natural and artificial forces int
 - [Twist with Vortex](vortex.md)
 - [Patterns with Power Law](orbit.md)
 - [Deformation with Inflate](inflate.md)
-- [Homework](inflate.md)
+- [Homework](homework.md)
