@@ -1,4 +1,4 @@
-##### Week 7 | Bouncing with Kangaroo
+### Week 7 | Bouncing with Kangaroo
 
 Kangaroo physics allows designers to integrate natural and artificial forces into their design processes for simulation, testing, form finding, and experimentation. Kangaroo has the ability to replicate nearly all physical phenomena as abstractions
 
