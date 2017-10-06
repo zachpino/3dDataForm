@@ -15,11 +15,11 @@ Create a Grasshopper file that creates form through data, as we did with our lak
 Places to look for data (by no means exhaustive!)...
 
 ##### General Data Resources
-[Data is Plural Weekly Newsletter](http://tinyletter.com/data-is-plural)
-[Data is Plural Daily Archive](http://tinyletter.com/data-is-plural/archive)
-[Data is Plural Indexed Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
-[Curran Dataset Agglomeration](https://github.com/curran/data)
-[Lynn Cherny (Data Scientist) Delicious Dataset Collection](https://delicious.com/arnicas/datasets)
+- [Data is Plural Weekly Newsletter](http://tinyletter.com/data-is-plural)
+- [Data is Plural Daily Archive](http://tinyletter.com/data-is-plural/archive)
+- [Data is Plural Indexed Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- [Curran Dataset Agglomeration](https://github.com/curran/data)
+- [Lynn Cherny (Data Scientist) Delicious Dataset Collection](https://delicious.com/arnicas/datasets)
 [Socrata Data Search Engine](https://nycopendata.socrata.com/)
 [Quantified Self Published Data](http://quantifiedself.com/open-data/)
 [Reddit Dataset Subreddit](https://www.reddit.com/r/datasets/)(and check out the linked subreddits too!)
