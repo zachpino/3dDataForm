@@ -7,7 +7,9 @@ Take a look at the many examples of [evolutionary modeling](week4/genalgo.md). E
 
 3d print an example from 5 different generations to show how the computer learned over time.
 
-### 2 
+### 2 · Simulated Forms
+Create a Grasshopper file featuring an implementation of the Kangaroo plugin. Apply a set of forces to a gemoetry, and 3d print 5 phases of interaction between the object and the physical forces (for example, 5 different levels of inflation, 5 different wind vectors, 5 different orbital power law patterns...).
+
 ### 3 · Data-Derived Forms
 Create a Grasshopper file that creates form through data, as we did with our lakes through wine-glasses project. How can embedding data in an object or 3d form change and improve how an audience engages that information?
 
