@@ -1,13 +1,14 @@
-### Homework for 10/27
+ ### Homework for 10/27
 
-We need to run some 3d print experiments! Download and install the [IdeaMaker software](https://www.raise3d.com/pages/ideamaker) for 3d printing.
+We need to run some 3d print experiments! Download and install the [IdeaMaker software](https://www.raise3d.com/pages/ideamaker) for 3d printing. Choose 2 of the 3 projects below to complete with the help of our 3d printer.
 
 ### 1 · Evolved Forms
 Take a look at the many examples of [evolutionary modeling](week4/genalgo.md). Envision a formal problem that we can teach a computer how to solve via Galapagos. Run Galapagos experimentally, refine your approach, and let it evolve your solution.
 
 3d print an example from 5 different generations to show how the computer learned over time.
 
-### 2 · Data-Derived Forms
+### 2 
+### 3 · Data-Derived Forms
 Create a Grasshopper file that creates form through data, as we did with our lakes through wine-glasses project. How can embedding data in an object or 3d form change and improve how an audience engages that information?
 
 3d print 5 examples based on different data, and produce a key to read your objects. Take a look at how artists and designers are embedding information in form at [Dataphys](http://www.dataphys.org) and [CreativeApplications](http://www.creativeapplications.net).
