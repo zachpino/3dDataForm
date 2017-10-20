@@ -36,7 +36,7 @@ MH
 
 -----
 
-Becky
+BM
 
 > Fitness : An object should be fully illuminated, and a nearby region should be fully shaded -- what geometry should surround a omnidirectional light source to produce this outcome?
 
@@ -126,5 +126,5 @@ UM
 
 #### Walkthrough
 
-- Take a look at [this example](prop.3dm) and its simulation [grasshopper file](prop.gh) to get started with simluating flight.
+- Take a look at [this example](prop.3dm) and its simulation [grasshopper file](prop.gh) to get started with simulating flight.
 - Manipulate the mesh to see how a deformed object flies to generate some rules to design around
