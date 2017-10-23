@@ -40,7 +40,7 @@ BM
 
 > Fitness : An object should be fully illuminated, and a nearby region should be fully shaded -- what geometry should surround a omnidirectional light source to produce this outcome?
 
-> Genome : Position of points that define a diffuser surface
+> Genome : Position of points that define a set of diffuse and reflective surface
 
 #### Walkthrough
 - Model the scenario with simple shapes
