@@ -44,7 +44,7 @@ Final Pattern : F+F-F+F-F+F-F
 
 We can set `F` equal to `move one unit forward`, `+` to `turn right 90 degrees`, and `-` to `turn left 90 degrees`.
 
-The turtle now is walking in a stair step pattern toward the upper right. More complex patterns, especially those invoking scale change and randomness, can create beautiful, organic, recursively complex results. Complexity builds quickly.
+The turtle now is walking in a stair step pattern toward the upper right. 
 
 ---
 
@@ -52,8 +52,8 @@ An Example from Wikipedia for modeling Sierpinski Fractals
 
 ```
 Axiom  : A
-Rule 1 : A = B−A−B
-Rule 2 : B = A+B+A
+Rule 1 : A = BF−AF−BF
+Rule 2 : B = AF+BF+AF
 
 + : Turn Clockwise 60 degrees
 - : Turn Counter-Clockwise 60 Degrees
@@ -63,3 +63,23 @@ F : Move Forward One Unit
 Here is the results at different iteration counts (2,4,6,8)
 
 ![sierpinski triangle](tri.png)
+
+---
+
+More complex patterns, especially those invoking scale change and randomness, can create beautiful, organic, recursively complex results. Complexity builds quickly.
+
+Again, from Wikipedia...
+
+```
+Axiom : X
+Rule 1 : X = F[−X][X]F[−X]+FX
+
++ : Turn Clockwise 25 degrees
+− : Turn Counter-Clockwise 25 degrees
+[ : Remember Turtle Position 
+] : Go Back to Last Remembered Turtle Position
+F : Go Forward (1 / Iteration Count) Units
+```
+
+![plant](plant.png)
+
