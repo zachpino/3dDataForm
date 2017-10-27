@@ -60,4 +60,6 @@ Rule 2 : B = A+B+A
 F : Move Forward One Unit
 ```
 
-![sierpinski triangle](https://en.wikipedia.org/wiki/File:Serpinski_Lsystem.svg)
+Here is the results at different iteration counts (2,4,6,8)
+
+![sierpinski triangle](tri.svg)
