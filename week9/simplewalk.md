@@ -1,8 +1,14 @@
 ### Simple Walker in Python
 
-[Agent-Based Modeling](https://en.wikipedia.org/wiki/Agent-based_model) is in many ways the opposite of the evolutionary form finding and simulated formal development discussed to date. Rather than the designer thinking about a final outcome to minimize or maximize, an agent-based modeling approach allows the designers to specifically define the parameters and abilities of an agent — and then observe that agent exist and generate autonomously. An individual is defined, and then outcomes emerge. Designing in this way is often termed *Generative Design* because the design in many ways *generates* itself.
+[Agent-Based Modeling](https://en.wikipedia.org/wiki/Agent-based_model) is in many ways the opposite of the evolutionary form finding and simulated formal development discussed previously. 
 
-This script can be placed inside of a Python node in Grasshopper, with inputs for 
+Rather than the designer thinking about an idealized *final outcome* to minimize or maximize, an agent-based modeling approach allows the designers to specifically define the parameters and abilities of an agent — and then observe how that agent exists autonomously given what it can do. An individual is defined, and then *outcomes emerge*. Designing in this way is often termed *Generative Design* because the design, in many meaningful ways, *generates* itself -- though through shaping behaviors the designer can influence the results.
+
+In this simple example, an agent starts at `(0,0,0)` and then, for each time step, is allowed to move a random amount in each of the three dimensions. As time passes, a line connects all of the different positions of the walker, showing the path that it traversed.
+
+![walker](walker.gif)
+
+This script can be placed inside of a `Python` node in Grasshopper, with inputs for `seed` and `time` hinted to `integer`.
 
 ```python
 """Provides a scripting component.
@@ -64,6 +70,8 @@ for t in range(time):
 
 #output the list of points
 a = pList
+```
+
 
 
 	
