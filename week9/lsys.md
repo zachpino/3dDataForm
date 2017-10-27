@@ -66,7 +66,7 @@ Here is the results at different iteration counts (2,4,6,8)
 
 ---
 
-More complex patterns, especially those invoking scale change and randomness, can create beautiful, organic, recursively complex results. Complexity builds quickly.
+More complex patterns, especially those invoking scale change and randomness, can create beautiful, organic, recursively complex results. These forms and patterns have compelling properties -- their self similarity means that scale change does not induces linear and predictable performative change. They often also offer unique, highly structural properties with minimal material use. Complexity builds quickly, however.
 
 Again, from Wikipedia...
 
