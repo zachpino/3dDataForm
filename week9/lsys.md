@@ -83,3 +83,19 @@ F : Go Forward (1 / Iteration Count) Units
 
 ![plant](plant.png)
 
+---
+
+##### Readings on L-Systems
+
+- [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
+- [Algorithmic Botany (most useful link from above)](http://algorithmicbotany.org/papers/abop/abop-ch1.pdf)
+- [Python Implementation](http://www.4dsolutions.net/ocn/lsystems.html)
+- [L-System Solids](http://blog.rabidgremlin.com/2014/12/09/procedural-content-generation-l-systems/)
+- [Modified Standards for Curve Drawing](http://www.evsc.net/projects/l-garden)
+- [3D Fractals](http://williamchyr.com/2012/01/32-l-systems/)
+- [Tree Generation for Videogames](https://www.youtube.com/watch?v=gHAqJY48p3Y)
+- [In OpenGL](https://www.youtube.com/watch?v=AXDl3rlaHUw)
+
+- [Rabbit, a Grasshopper Implementation that does not work on the Mac](https://morphocode.com/intro-to-l-systems/)
+- [Culebra, a Grasshopper Implementation that does not work on the Mac](http://www.food4rhino.com/app/culebra)
+- [Physarealm, a Grasshopper Implementation that does not work on the Mac](http://www.food4rhino.com/app/physarealm)
