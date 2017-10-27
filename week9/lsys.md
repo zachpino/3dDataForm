@@ -62,4 +62,4 @@ F : Move Forward One Unit
 
 Here is the results at different iteration counts (2,4,6,8)
 
-![sierpinski triangle](tri.svg)
+![sierpinski triangle](tri.png)
