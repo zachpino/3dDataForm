@@ -7,4 +7,4 @@ ID 3D Form through Data Course | Fall 2017
 - [Week 6](week6/readme.md)
 - [Week 7](week7/readme.md)
 - [Week 8](week8/readme.md)
-
+- [Week 9](week9/readme.md)
