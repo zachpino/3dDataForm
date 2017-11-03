@@ -8,5 +8,5 @@
 - 12/1 - Worktime
 - 12/8 - Final Critique
 
-The critique on 12/8 will include a final set of deliverables, as well as a completed [3d-printed project](https://github.com/zachpino/3dDataForm/blob/master/week7/homework.md) from mid-semester.
+The critique on 12/8 will include a [final set of deliverables](briefs.md), as well as a completed [3d-printed project](https://github.com/zachpino/3dDataForm/blob/master/week7/homework.md) from mid-semester.
 
