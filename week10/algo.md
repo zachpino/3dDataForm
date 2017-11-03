@@ -1,5 +1,7 @@
 ### Algorithmic Form
 
+![voronoi model](voronoimodel.png)
+
 Algorithmic design -- collaborating with an AI partner in the design process -- is in many ways [the future of design](https://medium.com/startup-grind/design-in-an-age-of-artificial-intelligence-739e656b44ba).
 
 The fundamentals of designing with and for an AI often requires a very specific goal due to the [lack of better tools](https://autodeskresearch.com/projects/dreamcatcher), similar to designing with evolutionary solvers. The fuzzy difference is that, in an evolutionary solver, we are working towards an *unknown* goal wherein the computational model can learn about the problem as it operates. In an algorithmic form generation model, we are applying a set of rules -- or patterns -- intelligently but consistently to an input, quite literally *processing* our design intent. In this way, the output is the result of recognizable patterns, and is often more predictable (but *more performative*) that an evolved form. Often, the pattern that is applied can be an [emergent pattern](https://medium.com/ai-first-design/ai-first-exploring-a-new-era-in-design-25be2b9920c), recognized and encoded by another AI combing through a dataset looking for similarities, patterns, and other relationships. 
