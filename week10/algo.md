@@ -8,9 +8,18 @@ In this example, Grasshopper is used as an AI to pseudo-intelligently remove mat
 
 The [Voronoi algorithm](https://en.wikipedia.org/wiki/Voronoi_diagram) is a very simple pattern, which uses proximity to a cloud of points to partition either a plane or a volume into segments. The segments include all of the physical space that is closer to each point in the cloud than any other point. The Voronoi algorithm was [discovered and codified] at the end of the 20th century, yet nevertheless continues to find [new uses in algorithmically modeling](https://en.wikipedia.org/wiki/Voronoi_diagram#Applications) human population behaviors, bone growth, weather patterns, and all kinds of other natural and artificial phenomena.
 
+![voronoi generation](voronoi.gif)
+
 In object design, Voronoi logic introduces several compelling properties. 
 - Voronoi cells offer an easily manufacturable model for an organic aesthetic.
 - The edges of the Voronoi diagram are the best levers for supporting weight, offering robust sturctural properties with minimal material use
 - The flexibility of the Voronoi pattern allows for natural density gradients, producing unusual moire effects when stacked and natural falloffs in surface patterning.
-- 3D Voronoi cells offer unusual, though predictable, acoustic and raybouncing properties that are still not fully understood.
+- 3D Voronoi cells offer unusual, though predictable, acoustic and raybouncing properties that are still not fully understood yet nevertheless offer compelling amplification properties for designers of lighting and sonic systems.
+
+You will need to install Weaverbird, a mesh editing plugin for Grasshopper to complete this exercise.
+
+[Weaverbird for Windows](http://www.giuliopiacentino.com/weaverbird/)
+[Weaverbird for Mac](http://www.giuliopiacentino.com/get-wb-no-admin/)
+
+Install these into the `Components` folder of your Grasshopper installation and restart Rhino.
 
