@@ -2,13 +2,14 @@
 
 You have a choice in your final brief. Select one of the following projects and complete the deliverables by our final critique date (12/08). Your proposal will be evaluated on concept, ambition, *research rigor*, and execution.
 
-Perfected resolution and fidelity are much less important than *demonstrated and consistent effort, perseverence, and broad exploration*. These projects are inherently experimental and future looking, and will likely lead to more questions and many new directions in their  resolution. We are producing proposals and novel ideas for *future methods of designing*, and not intending to produce fully resolved final results just yet. 
+Perfected resolution and fidelity are much less important than *demonstrated and consistent effort, perseverence, and broad exploration*. These projects are inherently experimental and future looking, and will likely lead to more questions and many new directions in their  resolution. We are producing proposals and novel ideas for *future methods of designing*, and not intending to produce fully resolved final outcomes just yet. 
 
 Students should expect to order some supplies for this project -- if ambitions are high and costs are onerous, let Zach know.
 
 > Unified Brief Requirements
 > - The final process must involve at least 2 digital fabrication technologies in their presentation (laser-cutting, 3d printing, CNC machining)
 > - An annotated Grasshopper file should be made available that is legible to an amateur user of the program
+> - Students should be prepared to discuss how their design process needed to flex in order to accomodate these new models for designer agency.
 -----
 
 #### Brief 1 - Parametric Products (New Human Factors, Inclusive Design, and Service Design Focus)
