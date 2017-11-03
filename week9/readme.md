@@ -2,6 +2,7 @@
 
 - [Simple Walker](simplewalk.md)
 - [Lindenmayer Systems](lsys.md)
+- [2D Lindenmayer System in GH](gh_lsys.md)
 - [Generative Design Examples](gendes.md)
 - [Sample Dataset for Exercise](https://github.com/zachpino/3dDataForm/blob/master/week7/homework.md)
 
