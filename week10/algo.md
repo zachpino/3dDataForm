@@ -1,6 +1,6 @@
 ### Algorithmic Form
 
-![voronoi model](voronoimodel.png)
+![voronoi model](voronoimodel.PNG)
 
 Algorithmic design -- collaborating with an AI partner in the design process -- is in many ways [the future of design](https://medium.com/startup-grind/design-in-an-age-of-artificial-intelligence-739e656b44ba).
 
