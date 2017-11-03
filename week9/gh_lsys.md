@@ -1,6 +1,6 @@
 ### Lindenmayer System in Grasshopper
 
-[Download the definitions](lsys.gh)
+[Download the definition](lsys.gh)
 
 ```python
 import rhinoscriptsyntax as rs
