@@ -1,4 +1,4 @@
-### Final Briefs
+ ### Final Briefs
 
 You have a choice in your final brief. Select one of the following projects and complete the deliverables by our final critique date (12/08). Your proposal will be evaluated on concept, ambition, *research rigor*, and execution.
 
@@ -16,7 +16,7 @@ Students should expect to order some supplies for this project -- if ambitions a
 
 Envision how a future service could make use of costumer data to *create a customized object for each and every individual*. Devise a Grasshopper or otherwise programmatic method for converting select user information into an output form that reflects their uniqueness. The Grasshopper file should be capable of generating an effectively infinite number of final outputs, comporting with the variability of human kind.
 
-The ingested data could be at the user-level (bodily measurements, preferred colors...) or environment-level (room layout and dimensions, geolocation...), or grander (could a sovereign country be a user of such a service?).
+The ingested data could be at the user-level (bodily measurements, preferred colors...) or environment-level (room layout and dimensions, geolocation...), or grander (could a sovereign country be a user of such a service in their infrastructure design or space program?).
 
 After the Grasshopper file is created, how might we talk about the value proposition of such a product offering in an otherwise regressive marketplace?
 
@@ -26,6 +26,14 @@ After the Grasshopper file is created, how might we talk about the value proposi
 >- Storyboard of images demonstrating how a customer would engage with the service
 >- Pitch deck, or website prototype, describing the value proposition of the embryonic service, along with how the outputted objects vary between customers.
 >- Single layout, 18"x24", detailing the project (doesn't need to be printed, should be legible when projected)
+
+> Examples
+>- [Nervous System Kinematics Fashion and Accessories](https://n-e-r-v-o-u-s.com/kinematics/)
+>- [My Esel Bikes](https://www.my-esel.com/my-esel-fahrrad/konfigurator/)
+>- [Toucan Beak Replacements](https://3dprint.com/115060/grecia-toucan-3d-printed-beak/)
+>- [Cover Modernist Custom Architecture](https://cover.build/)
+>- [Layer Design Go Wheelchair Writeup](http://www.core77.com/posts/53505/Finally-A-Chair-That-Might-Actually-Change-Lives)
+>- [Layer Design Go Wheelchair Product Page](http://layerdesign.com/projects/go/)
 
 -----
 
@@ -44,9 +52,9 @@ How can generated forms provide emergent and unexpected properties to designed o
 -----
 
 #### Brief 3 - Data Storytelling (Data Visualization, Data Journalism, and Communication Focus)
-Select a set of complementary datasets about an engaging issue, and help a user more fully understand that issue, and the designer's opinion of the issue, in all of its specificity by embedding that information in a suite of interactive, 3-dimensional objects. Ideally, the objects tell their own story in materiality, form, and surface -- though if necessary, textual accompaniments can be included to more fully round-out the experience.
+Select a set of complementary datasets about an engaging issue, and help a user more fully understand that issue -- and the designer's opinion of the issue --by embedding that information in a suite of interactive, 3-dimensional objects. Ideally, the objects tell their own story in materiality, form, and surface -- though if necessary, textual accompaniments can be included to more fully round-out the experience.
 
-How can physical objects help observers better engage and understand complex data?
+How can physical objects help observers better engage and understand complex and multifaceted data?
 
 > Deliverables
 >- Collection of at least 3 data-derived forms
@@ -54,6 +62,11 @@ How can physical objects help observers better engage and understand complex dat
 >- Designed legend to accompany the objects, detailing how to read the forms
 >- Presentation deck on the issue, priming a person unfamiliar with the issue to get the most out of the data-derived object experience
 >- Single layout, 18"x24", detailing the project (doesn't need to be printed, should be legible when projected)
+
+> Examples
+>- [Jerusalem Tables](http://www.core77.com/projects/39363/Jerusalem-Tables)
+>-
+
 
 -----
 
