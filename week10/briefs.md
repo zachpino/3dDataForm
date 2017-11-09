@@ -16,7 +16,7 @@ Students should expect to order some supplies for this project -- if ambitions a
 
 Envision how a future service could make use of costumer data to *create a customized object for each and every individual*. Devise a Grasshopper or otherwise programmatic method for converting select user information into an output form that reflects their uniqueness. The Grasshopper file should be capable of generating an effectively infinite number of final outputs, comporting with the variability of human kind.
 
-The ingested data could be at the user-level (bodily measurements, preferred colors...) or environment-level (room layout and dimensions, geolocation...), or grander (could a sovereign country be a user of such a service in their infrastructure design or space program?).
+The ingested data could be at the user-level (bodily measurements, preferred colors...) or environment-level (room layout and dimensions, geolocation...), or grander (could a municipality or sovereign country be a user of such a service in their infrastructure design?).
 
 After the Grasshopper file is created, how might we talk about the value proposition of such a product offering in an otherwise regressive marketplace?
 
@@ -50,6 +50,13 @@ How can generated forms provide emergent and unexpected properties to designed o
 >- Proposal document detailing how the growth as designed could be scoped and applied to a set of real-life commercial, exploratory, or aesthetic applications
 >- Single layout, 18"x24", detailing the project (doesn't need to be printed, should be legible when projected)
 
+> Examples
+>- [Nervous System Hyphae, Dendrite, and Cellular Automata Projects](https://n-e-r-v-o-u-s.com/projects/)
+>- [Aranda \ Lasch](http://arandalasch.com)
+>- [Philip Beesley Architecture, Objects, Fashion, Environments](http://philipbeesleyarchitect.com)
+>- [More Grown Examples](https://github.com/zachpino/3dDataForm/blob/master/week9/gendes.md)
+>- [More Algorithmic Examples](https://github.com/zachpino/3dDataForm/blob/master/week10/examples.md)
+
 -----
 
 #### Brief 3 - Data Storytelling (Data Visualization, Data Journalism, and Communication Focus)
@@ -65,10 +72,10 @@ How can physical objects help observers better engage and understand complex and
 >- Single layout, 18"x24", detailing the project (doesn't need to be printed, should be legible when projected)
 
 > Examples
->- [Jerusalem Tables](http://www.core77.com/projects/39363/Jerusalem-Tables)
->- [DataPhys.org Examples](http://dataphys.org/list/)
 >- [Adrian Segal Data Sculpture](https://www.adriensegal.com/)
-
+>- [Iohanna Pani Data Tableware](https://www.designboom.com/design/iohanna-pani-form-follows-data/)
+>- [Jerusalem Tables](http://www.core77.com/projects/39363/Jerusalem-Tables)
+>- [DataPhys.org Exhaustive List of Examples](http://dataphys.org/list/)
 
 -----
 
@@ -84,9 +91,14 @@ How can computational tools enable more performative designed outcomes?
 >- Storyboard of images detailing the simulation and how it shapes form
 >- Single layout, 18"x24", detailing the project (doesn't need to be printed, should be legible when projected)
 
-
 > Examples
 >- [Parametric Pendants](http://www.core77.com/posts/27583/In-the-Details-Parametric-Pendants-That-Hit-the-Sweet-Spot-Between-Handcraft-and-the-Machine-Made)
+>- [Joris Laarman Bone Chair](http://www.jorislaarman.com/work/bone-chair/)
+>- [Elbphilharmonie Acoustic Forms](https://www.wired.com/2017/01/happens-algorithms-design-concert-hall-stunning-elbphilharmonie/)
+>- [Acoustic Surfaces](http://www.bradypeters.com/parametric-acoustic-surfaces.html)
+>- [Breeding Tables](http://www.kramweisshaar.com/projects/breeding-tables)
+>- [More Examples](https://github.com/zachpino/3dDataForm/blob/master/week4/genalgo.md)
+
 -----
 
 #### Brief 5 - Formal Exploration (Choose your own adventure!)
