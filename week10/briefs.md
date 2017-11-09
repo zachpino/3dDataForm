@@ -32,6 +32,7 @@ After the Grasshopper file is created, how might we talk about the value proposi
 >- [My Esel Bikes](https://www.my-esel.com/my-esel-fahrrad/konfigurator/)
 >- [Toucan Beak Replacements](https://3dprint.com/115060/grecia-toucan-3d-printed-beak/)
 >- [Cover Modernist Custom Architecture](https://cover.build/)
+>- [Haelo Design Look of Love](http://www.haelodesign.com/manifesting-the-look-of-love/)
 >- [Layer Design Go Wheelchair Writeup](http://www.core77.com/posts/53505/Finally-A-Chair-That-Might-Actually-Change-Lives)
 >- [Layer Design Go Wheelchair Product Page](http://layerdesign.com/projects/go/)
 
@@ -65,7 +66,8 @@ How can physical objects help observers better engage and understand complex and
 
 > Examples
 >- [Jerusalem Tables](http://www.core77.com/projects/39363/Jerusalem-Tables)
->-
+>- [DataPhys.org Examples](http://dataphys.org/list/)
+>- [Adrian Segal Data Sculpture](https://www.adriensegal.com/)
 
 
 -----
@@ -82,6 +84,9 @@ How can computational tools enable more performative designed outcomes?
 >- Storyboard of images detailing the simulation and how it shapes form
 >- Single layout, 18"x24", detailing the project (doesn't need to be printed, should be legible when projected)
 
+
+> Examples
+>- [Parametric Pendants](http://www.core77.com/posts/27583/In-the-Details-Parametric-Pendants-That-Hit-the-Sweet-Spot-Between-Handcraft-and-the-Machine-Made)
 -----
 
 #### Brief 5 - Formal Exploration (Choose your own adventure!)
