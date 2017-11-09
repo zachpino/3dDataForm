@@ -94,3 +94,4 @@ Envision a scenario wherein some of the algorithmic tools (programmatic form, si
 
 > Deliverables
 >- Final deliverables and requirements will be scoped in conversation with Zach.
+ 
